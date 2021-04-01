@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "symfony/http-foundation": "5.x-dev"
+    }
 }
