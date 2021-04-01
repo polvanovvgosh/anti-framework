@@ -1,0 +1,14 @@
+{
+    "name": "antiframework/antiframework",
+    "description": "It is not a framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Polvanov Igor",
+            "email": "polvanovv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
